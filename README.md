@@ -3,7 +3,7 @@
 
 - 🔭 Trabalhando em **projetos FiveM**
 
-- 🌱 Atualmente aprendendo **react e redux.**
+- 🌱 Atualmente aprendendo **nodeJs e criação de API.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
